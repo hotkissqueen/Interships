@@ -1,2 +1,2 @@
 # Interships
-public repo with my tryin to get work
+public repo with my tryins to get work
